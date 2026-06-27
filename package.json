@@ -1,5 +1,4 @@
-cat > /mnt/user-data/outputs/package.json << 'EOF'
-{
+
   "name": "house-of-nuts-ecommerce",
   "version": "1.0.0",
   "description": "Premium D2C Makhana E-commerce Platform",
@@ -29,6 +28,3 @@ cat > /mnt/user-data/outputs/package.json << 'EOF'
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.3"
   }
-}
-EOF
-cat /mnt/user-data/outputs/package.json
